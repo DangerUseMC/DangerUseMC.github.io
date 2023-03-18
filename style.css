@@ -113,6 +113,18 @@ nav img{
     animation-iteration-count: infinite;
     transition: transform 1500ms ease-in-out;
 }
+
+.text-top{
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    position: absolute;
+}
 .logo-top h1{
     font-size: 62px;
 }
